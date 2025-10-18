@@ -52,7 +52,7 @@ Main columns used:
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Preview](Screenshot%202025-10-12%20135012.png)
+![Dashboard Preview](https://github.com/Ayush1824/Video-game-analysis/blob/main/Screenshot%202025-10-12%20135012.png)
 
 ---
 
